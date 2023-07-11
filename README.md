@@ -9,3 +9,9 @@ http://localhost:8080/api/students?page=0
 
 http://localhost:8080/api/students?page=1
 
+http://localhost:8080/api/students?sort=lastName
+
+http://localhost:8080/api/students?sort=firstName,desc
+
+http://localhost:8080/api/students?sort=firstName,LastName,asc
+
